@@ -12,17 +12,13 @@ import Login from "./components/Login";
 import Footer from "./components/Footer";
 
 const AppLayout = () => {
-  // const [username, setusername] = useState();
+  const [loading, setLoading] = useState(true);
 
-  // //authentication
-  // useEffect(() => {
-  //   //make an API call and send username and password
-  //   const data = {
-  //     name: "yash gupta",
-  //   };
-  //   setusername(data.name);
-  // }, []);
-
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false);
+    }, 3000);
+  }, []);
   return (
     <Provider store={appstore}>
       <div className="flex flex-col min-h-screen">

@@ -6,7 +6,7 @@ const Mindcard = (foodItem) => {
 
   return (
     <div>
-      <div className="w-[180px] h-[1%]">
+      <div className="w-[180px] ">
         <img src={MIND_URL + foodData.imageId} />
       </div>
     </div>

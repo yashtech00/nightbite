@@ -43,7 +43,7 @@ const Cart = () => {
   };
 
   return (
-    <div className="container mx-auto mt-8 p-6 bg-white rounded-lg shadow-xl w-1/2">
+    <div className="container mx-auto mt-36 p-6 bg-white rounded-lg shadow-xl w-1/2">
       <h2 className="text-3xl font-bold mb-4 text-center text-gray-800">
         Cart
       </h2>

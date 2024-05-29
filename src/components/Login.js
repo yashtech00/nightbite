@@ -79,7 +79,7 @@ const Login = () => {
   };
 
   return (
-    <div className="pb-[49%] bg-gray-300 relative">
+    <div className="pb-[49%] bg-gray-300 relative mt-[5%]">
       <form
         onClick={(e) => e.preventDefault()}
         className="w-[60%] absolute p-12 my-8 mx-auto right-0 left-0 bg-white bg-opacity-80 text-white rounded-lg drop-shadow-2xl"
@@ -120,7 +120,7 @@ const Login = () => {
               <div className=" text-xl text-black">Password</div>
               <input
                 ref={password}
-                className="p-4 my-4 w-full bg-gray-300 rounded-lg text-white"
+                className="p-4 my-4 w-full bg-gray-300 rounded-lg text-black"
                 type="Password"
                 placeholder="Password"
               />
