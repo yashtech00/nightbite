@@ -8,8 +8,8 @@ NightBite is an online food delivery application built with React.js, Redux, Tai
 - [Demo](#demo)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
+- [Contact](#Contact)
 
 ## Features
 
