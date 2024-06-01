@@ -21,7 +21,7 @@ NightBite is an online food delivery application built with React.js, Redux, Tai
 
 ## Demo
 
-You can check out a live demo of the project {https://nightbite.vercel.app/}(#).
+You can check out a live demo of the project https://nightbite.vercel.app/
 
 ## Project Video
 
