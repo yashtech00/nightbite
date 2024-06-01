@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# NightBite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NightBite is an online food delivery application built with React.js, Redux, Tailwind CSS, and API routers. This application allows users to browse menus, place orders, and get their favorite meals delivered to their doorstep.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Features](#features)
+- [Demo](#demo)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Browse Menus**: View menus from various restaurants.
+- **Place Orders**: Add items to your cart and place orders easily.
+- **Order Tracking**: Track your order in real-time.
+- **User Authentication**: Sign up and log in securely.
+- **Responsive Design**: Works seamlessly on all devices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
-### `npm test`
+You can check out a live demo of the project {https://nightbite.vercel.app/}(#).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Video
 
-### `npm run build`
+Watch a video demonstration of the NightBite project:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![NightBite Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
+- Home Page: Browse available restaurants and menus, and discover new food options.
+- About: Learn more about NightBite and its mission to provide the best food delivery service.
+- Contact Us: Get in touch with the NightBite team for support or inquiries.
+- Cart: View the items you have added to your cart and proceed to checkout.
+- Sign Up / Log In: Create an account or log in to access personalized features and track your orders.
+  
+## Technologies Used
+- React.js: A JavaScript library for building user interfaces.
+- Redux: A predictable state container for JavaScript apps.
+- Tailwind CSS: A utility-first CSS framework for rapid UI development.
+- APIs: For fetching restaurant data, menus, and handling user authentication.
+- React Router: Declarative routing for React applications.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
+Distributed under the MIT License. See LICENSE for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+- Email = yashgtech00@gmail.com
