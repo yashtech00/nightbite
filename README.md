@@ -27,7 +27,7 @@ You can check out a live demo of the project {https://nightbite.vercel.app/}(#).
 
 Watch a video demonstration of the NightBite project:
 
-[![NightBite Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+https://github.com/yashtech00/nightbite/assets/141262414/b9828ecc-405b-49a6-bad7-8ab4bf6531b0
 
 ## Usage
 - Home Page: Browse available restaurants and menus, and discover new food options.
